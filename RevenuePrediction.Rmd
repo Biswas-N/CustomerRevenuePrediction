@@ -1,7 +1,0 @@
-# Revenue Prediction
-
-```{r}
-library(tidyverse)
-library(caret)
-library(MASS)
-```
