@@ -14,7 +14,9 @@ More specifically, I am predicting the transformation of the aggregate customer-
 
 $$
 custRevenue_i =  \sum_{j=1}^{k_i} revenue_{ij} \ \ \  \forall i \in customers
-$$$$
+$$
+
+$$
 \text{where } k_i \text{ denotes the number of revenue transactions for customer } i 
 $$
 
